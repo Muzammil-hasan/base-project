@@ -1,0 +1,9 @@
+body {
+	background-color: color(main);
+	color: black;
+	font-family: font(primary);
+
+	* {
+		box-sizing: border-box;
+	}
+}
